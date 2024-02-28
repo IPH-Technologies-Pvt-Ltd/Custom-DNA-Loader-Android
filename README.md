@@ -31,7 +31,7 @@ The DNA Loader Animation in Kotlin is a lightweight and customizable loading ani
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/dna-loader-animation.git
+git clone https://github.com/IPH-Technologies-Pvt-Ltd/dna-loader-animation.git
  
 2. Open the project in Android Studio.
 
