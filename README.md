@@ -41,13 +41,6 @@ git clone https://github.com/yourusername/dna-loader-animation.git
 
 5. In your XML layout file, add the `DNAView` as follows:
 
-```xml
-<com.example.yourpackage.DNAView
-    android:id="@+id/dnaLoaderView"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    />
-In your Kotlin/Java code, initialize and start the animation:
  
 # Customization
 
@@ -56,10 +49,6 @@ You can customize the DNA loader animation by modifying the code in the DNAView.
 # License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-# Acknowledgments
-
-Special thanks to [Author Name] for the inspiration and original implementation of this DNA loader animation.
 
 
 
